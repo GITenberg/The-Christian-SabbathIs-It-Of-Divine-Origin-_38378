@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44079
     wikipedia: http://en.wikipedia.org/wiki/John_Remsburg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38378#The-Christian-SabbathIs-It-Of-Divine-Origin-
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
